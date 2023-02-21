@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <base href="/html/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+
+  <title>set your projectName</title>
+  <link rel="manifest" href="manifest.json">
+
+</head>
+<body>
+
+  <script>
+
+    var scriptLoaded = false;
+    function loadMainDartJs() {
+      if (scriptLoaded) {
+        return;
+      }
+      scriptLoaded = true;
+      var scriptTag = document.createElement('script');
+      scriptTag.src = 'main.dart.js';
+      scriptTag.type = 'application/javascript';
+      document.body.append(scriptTag);
+    }
+
+
+      loadMainDartJs();
+ 
+  </script>
+</body>
+</html>
