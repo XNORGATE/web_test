@@ -1,7 +1,13 @@
 # web_test
  [How-to]Build flutter web UI for FiveM CEF samples
-
+ 
 This web_test resource can be directly used in fivem
+
+Preview: 
+
+https://user-images.githubusercontent.com/72063585/220277510-c012bdb7-a27c-4101-952c-7766796e9c3d.mp4
+
+
 
 
 # [How-to]Build flutter web UI for FiveM CEF
