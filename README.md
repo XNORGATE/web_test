@@ -3,7 +3,7 @@
  
 This web_test resource can be directly used in fivem
 
-if you r find the Dart src code , [check this] (https://github.com/XNORGATE/fivem_ui)
+if you r looking for the Dart src code , [check this] (https://github.com/XNORGATE/fivem_ui)
 
 Preview: 
 
@@ -93,4 +93,4 @@ client_script "client.lua"
 5. start the resource and enjoyed it
 
 
-    
+starred it if you r interested at it!
