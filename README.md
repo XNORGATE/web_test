@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/72063585/220277510-c012bdb7-a27c-4101-
 
 
 
-4. **Put all the files in build/web folder into your fivem script’s html folder Configure fxmanifest.lua in the script to be used
+4. **Put all the files in build/web folder into your fivem script’s html folder Configure fxmanifest.lua in the script to be used**
 ```lua=
 fx_version 'bodacious'
 games { 'gta5' }
