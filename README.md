@@ -1,6 +1,9 @@
 # web_test
  [How-to]Build flutter web UI for FiveM CEF samples
 
+This web_test resource can be directly used in fivem
+
+
 # [How-to]Build flutter web UI for FiveM CEF
 
 *warning :this note is for those who knows some basic stuff for flutter*
@@ -81,5 +84,5 @@ client_script "client.lua"
 ```
 5. start the resource and enjoyed it
 
-## if you are looking at some samples:
+
     
